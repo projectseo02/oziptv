@@ -22,7 +22,7 @@
 
 | مباريات مباشرة | القنوات |
 |:---:|:---:|
-| ![Live Football](https://oz-tv.xyz/screenshot3.svg) | ![TV Channels](https://oz-tv.xyz/screenshot1.svg) |
+| ![Live Football](https://oz-tv.xyz/Screenshot_phone_1.png) | ![TV Channels](https://oz-tv.xyz/Screenshot_phone-horizontal_1.png) |
 
 ## 🛠 طريقة التثبيت
 
