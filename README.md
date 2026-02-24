@@ -2,11 +2,11 @@
 
 ![OZIPTV Banner](https://oz-tv.xyz/logo.svg)
 
-**موقعنا الرسمي:** [oz-tv.xyz](https://oz-tv.xyz) | **الإصدار:** 3.3
+**موقعنا الرسمي:** [oz-tv.xyz](https://oz-tv.xyz) | **الإصدار:** 3.3.1
 
 **حمل تطبيق OZIPTV الآن** لمشاهدة **+5000 قناة مجانية**، **مباريات كرة القدم بث مباشر**، أحدث الأفلام والمسلسلات، وأفضل محتوى رمضان 2026 بجودة عالية.
 
-## 📥 [تحميل تطبيق OZIPTV (إصدار 3.3)](https://github.com/projectseo02/oziptv/raw/main/app/release/app-release.apk)
+## 📥 [تحميل تطبيق OZIPTV (إصدار 3.3.1)](https://github.com/projectseo02/oziptv/raw/main/app/release/app-release.apk)
 
 ---
 
@@ -56,21 +56,21 @@
 
 ---
 
-*آخر تحديث: 2026-02-23 | الإصدار: 3.3*
+*آخر تحديث: 2026-02-24 | الإصدار: 3.3.1*
 
 ---
 
-**التغييرات في هذا الإصدار (3.3):**
-- 🛠️ إصلاح بعض الأعطال في البث المباشر
-- ⚡ تحسين أداء التطبيق وسرعة فتح القنوات
-- 🔧 تحسينات عامة في الاستقرار وتجربة الاستخدام
+**التغييرات في هذا الإصدار (3.3.1):**
+- 🛠️ تحسين سلاسة البث المباشر وتقليل التقطيع
+- 🎨 تحسينات في واجهة المستخدم وتجربة التنقل
+- 🔧 تحسينات إضافية في الأداء والاستقرار
 
-**What's new in this version (3.3):**
-- 🛠️ Fixed some live streaming issues
-- ⚡ Improved app performance and channel loading speed
-- 🔧 General stability and user experience improvements
+**What's new in this version (3.3.1):**
+- 🛠️ Smoother live streaming with reduced buffering
+- 🎨 Improved UI and easier navigation
+- 🔧 Additional performance and stability improvements
 
-**Nouveautés dans cette version (3.3) :**
-- 🛠️ Correction de certains bugs du streaming en direct
-- ⚡ Amélioration des performances et de la vitesse de chargement des chaînes
-- 🔧 Améliorations générales de la stabilité et de l'expérience utilisateur
+**Nouveautés dans cette version (3.3.1) :**
+- 🛠️ Streaming en direct plus fluide avec moins de coupures
+- 🎨 Interface utilisateur et navigation améliorées
+- 🔧 Améliorations supplémentaires des performances et de la stabilité
