@@ -56,21 +56,21 @@
 
 ---
 
-*آخر تحديث: 2026-02-24 | الإصدار: 3.3.2*
+*آخر تحديث: 2026-02-25 | الإصدار: 3.3.3*
 
 ---
 
-**التغييرات في هذا الإصدار (3.3.2):**
+**التغييرات في هذا الإصدار (3.3.3):**
 - 🛠️ تحسين سلاسة البث المباشر وتقليل التقطيع
 - 🎨 تحسينات في واجهة المستخدم وتجربة التنقل
 - 🔧 تحسينات إضافية في الأداء والاستقرار
 
-**What's new in this version (3.3.2):**
+**What's new in this version (3.3.3):**
 - 🛠️ Smoother live streaming with reduced buffering
 - 🎨 Improved UI and easier navigation
 - 🔧 Additional performance and stability improvements
 
-**Nouveautés dans cette version (3.3.2) :**
+**Nouveautés dans cette version (3.3.3) :**
 - 🛠️ Streaming en direct plus fluide avec moins de coupures
 - 🎨 Interface utilisateur et navigation améliorées
 - 🔧 Améliorations supplémentaires des performances et de la stabilité
